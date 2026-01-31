@@ -1,3 +1,20 @@
-Flask==2.3.3
-requests==2.31.0
-gunicorn==21.2.0
+#  ____            _           _  __  ____   __
+# |  _ \ _ __ ___ (_) ___  ___| |_\ \/ /\ \ / /
+# | |_) | '__/ _ \| |/ _ \/ __| __|\  /  \ V / 
+# |  __/| | | (_) | |  __/ (__| |_ /  \   | |  
+# |_|   |_|  \___// |\___|\___|\__/_/\_\  |_|  
+#               |__/                            
+#
+# Project  : Project XY Bypass
+# Version  : v1.0.0
+# Status   : Stable Release
+# Author   : Quantum
+# Discord  : https://discord.gg/nsXdFpE69b
+
+
+mitmproxy
+discord.py
+aiohttp
+requests
+pycryptodome
+protobuf-decoder
